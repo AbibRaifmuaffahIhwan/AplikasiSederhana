@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AplikasiSederhana</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="panjang">Masukkan_Panjang_Balok</string>
+    <string name="lebar">Masukkan_Lebar_Balok</string>
+    <string name="tinggi">Masukkan_Tinggi_Balok</string>
+</resources>
